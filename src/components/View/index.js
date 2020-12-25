@@ -1,0 +1,1 @@
+export {ViewComponent} from "./View";
